@@ -1,6 +1,6 @@
 # VolumeCloud
 This is a WIP volumetric cloud effect, still pretty rough.<br>
-Most comments were written in Chinese at first, I have translated most of them, but there are maybe still some Chinese comments exist but I think that doesn't affect reading the code. <br>
+Most comments were written in Chinese at first, I have translated most of them, there are maybe still some Chinese comments exist but I think that doesn't affect reading the code. <br>
 During the process I referenced this tutorial, it uses a sceneviewFilter script to display the image effect on editor window so that it can be more convenient for debugging:<br>http://flafla2.github.io/2016/10/01/raymarching.html<br>
 # Effect preview
 ![image](https://github.com/akatsukikaede/VolumeCloud/blob/master/CloudRender.png)
